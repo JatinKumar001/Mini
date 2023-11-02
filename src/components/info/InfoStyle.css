@@ -1,0 +1,32 @@
+.info-container{
+    display: flex;
+    position: absolute;
+    top: 150px;
+    right: 220px;
+    padding: 10px 10px 15px 10px;
+    box-shadow: 0 6px 16px rgb(52 105 203/16%);
+}
+
+.nlength{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
+
+.br-1{
+    border-right: 1px solid rgb(177, 177, 177);
+}
+
+.infovalue{
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    color: #57b490;
+    font-weight: 600;
+}
+
+.infokey{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
